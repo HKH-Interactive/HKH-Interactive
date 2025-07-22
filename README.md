@@ -16,7 +16,6 @@ Based in Japan and connected to a global dev community, we’re committed to sup
 
 
 ---
----
 
 <!-- ABOUT US -->
 
